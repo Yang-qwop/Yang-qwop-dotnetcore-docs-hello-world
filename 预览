@@ -1,0 +1,8 @@
+# 切换到你想要创建分支的存储库目录
+cd your-repository
+
+# 创建一个新的分支
+git checkout -b new-branch-name
+
+# 推送新分支到 GitHub
+git push origin new-branch-name
